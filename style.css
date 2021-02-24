@@ -20,10 +20,9 @@ h1{
     */
 }
 #container{
-    width: 80%;
-    height: 75vh;
-    margin-top: 5em;
-    margin-bottom: 5em;
+    margin: 10%;
+    width: 80vw;
+    height: 90vh;
     background-image: url("41314.jpg");
     background-size: cover;
     background-repeat: no-repeat;
