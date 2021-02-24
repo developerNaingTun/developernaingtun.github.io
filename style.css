@@ -1,0 +1,31 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+body{
+    background-color: rgb(231, 226, 226);
+}
+h1{
+    position: relative;
+    width: 100%;
+    padding-top: 100px;
+    text-align: center;
+    font-family: Pyidaungsu;
+    font-size: 2.5em;
+    color: floralwhite;
+    
+    /* 
+    font-weight: 5em; 
+    text-decoration: underline;
+    */
+}
+#container{
+    width: 80%;
+    height: 75vh;
+    margin-top: 5em;
+    margin-bottom: 5em;
+    background-image: url("41314.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: 30px 30px 15px grey;
+}
