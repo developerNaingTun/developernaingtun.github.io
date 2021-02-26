@@ -8,6 +8,7 @@ body{
     background-image: url("4728244.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 h1{
     position: relative;
@@ -26,7 +27,7 @@ h1{
 h2{
     position: relative;
     width: 100%;
-    padding-top: 100px;
+    padding-top: 60px;
     text-align: center;
     font-family: Pyidaungsu;
     font-size: 2.5em;
@@ -62,4 +63,8 @@ h2{
     font-size: 2em;
     text-align: center;
     font-family: Pyidaungsu;
+}
+iframe{
+    width: 100%;
+    height: 30vh;
 }
